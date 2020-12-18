@@ -1,3 +1,15 @@
+# Моё первое приложение на React. 
+
+Доступно в глобальном доступе на https://react-hooks-test-970f8.web.app/
+
+Позволяет добавлять удалять и просматривать простые заметки. 
+
+Работает с Firebase.
+
+
+Автор идеи и разработки: Владилен Минин <https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
